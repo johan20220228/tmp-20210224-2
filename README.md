@@ -9,7 +9,7 @@ Radbrytning men inte styckebrytning här?
 * En rad till.
 En rad efter punkt.
   * En indragen punkt?
-En rad till, indragen?
+    En rad till, indragen?
 
 ## Rubrik nivå 2
 
