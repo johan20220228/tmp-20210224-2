@@ -7,9 +7,12 @@ Radbrytning men inte styckebrytning här?
 
 * En punkt.
 * En rad till.
-En rad efter punkt.
+  En rad efter punkt.
   * En indragen punkt?
     En rad till, indragen?
+* En huvudpunkt igen.
+  Med ytterligare en rad.
+    Fyra mellanslag.
 
 ## Rubrik nivå 2
 
