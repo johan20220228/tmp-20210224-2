@@ -23,7 +23,7 @@ Aliquam aenean.
 * Punktlista
 * Ny punkt
 * En punkt till
-  * Underpunkt
+  * Underpunkt.
     Mer text till underpunkten.
 
 Hymenaeos laboriosam, aliqua veritatis ea volutpat curae earum labore tincidunt sapien adipisci! Incididunt.
