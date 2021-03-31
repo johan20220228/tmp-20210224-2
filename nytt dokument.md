@@ -16,7 +16,7 @@ Eaque voluptates.
 
 Velit sunt nisi consectetur minim elit do temporibus, do sollicitudin sed reprehenderit alias dolorem iusto cupiditate, molestie dolore quisque eaque doloribus laboris maecenas dis?
 
-<math>x + 2 - x<sup>2</sup></math>
+x + 2 − x<sup>2</sup>
 
 Distinctio eu, pulvinar facilisis mus habitasse hendrerit diam accusantium deserunt etiam assumenda eu interdum pulvinar id!
 Modi nullam. Error tempora!
