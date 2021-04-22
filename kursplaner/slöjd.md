@@ -129,11 +129,11 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 ### Kunskapskrav för betyget A i slutet av årskurs 6
 
-Eleven formger och framställer på ett **väl genomarbetat **sätt enkla slöjdföremål i olika material och med enkla hantverkstekniker.
-I slöjdarbetet använder eleven verktyg på ett säkert och** ändamålsenligt och effektivt** sätt.
+Eleven formger och framställer på ett **väl genomarbetat** sätt enkla slöjdföremål i olika material och med enkla hantverkstekniker.
+I slöjdarbetet använder eleven verktyg på ett säkert och **ändamålsenligt och effektivt** sätt.
 
-Utifrån syftet med slöjdarbetet och någon idé väljer eleven ett **väl fungerande **tillvägagångssätt.
-Under arbetsprocessen formulerar och väljer eleven handlingsalternativ** som leder framåt**.
+Utifrån syftet med slöjdarbetet och någon idé väljer eleven ett **väl fungerande** tillvägagångssätt.
+Under arbetsprocessen formulerar och väljer eleven handlingsalternativ **som leder framåt**.
 
 Eleven beskriver påett **välutvecklat** sätt arbetsprocessen och hur den har påverkat slöjdföremålets kvalitet.
 
@@ -169,11 +169,11 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 ### Kunskapskrav för betyget A i slutet av årskurs 9
 
-Eleven formger och framställer slöjdföremål på ett **väl genomarbetat **sätt.
-I slöjdarbetet använder eleven verktyg på ett säkert och** ändamålsenligt **sätt** med precision**.
+Eleven formger och framställer slöjdföremål på ett **väl genomarbetat** sätt.
+I slöjdarbetet använder eleven verktyg på ett säkert och **ändamålsenligt** sätt **med precision**.
 
 Eleven utvecklari **stor** utsträckning idéer med utgångspunkt i inspirationskällor och **prövar och omprövar** då **systematiskt** hur material och hantverkstekniker kan kombineras med hänsyn till föremålens form och funktion.
-Utifrån syftet med slöjdarbetet väljer eleven ett **väl fungerande **tillvägagångssätt och ger** välutvecklade **motiveringar till sina val.
-Under arbetsprocessen formulerar och väljer eleven handlingsalternativ** som leder framåt**.
+Utifrån syftet med slöjdarbetet väljer eleven ett **väl fungerande** tillvägagångssätt och ger **välutvecklade** motiveringar till sina val.
+Under arbetsprocessen formulerar och väljer eleven handlingsalternativ **som leder framåt**.
 
 Eleven för **välutvecklade** resonemang om arbetsprocessen och resultatet samt hur det genomförda arbetet har påverkat kvaliteten, uttrycket och miljön.
