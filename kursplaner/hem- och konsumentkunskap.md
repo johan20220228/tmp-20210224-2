@@ -103,7 +103,7 @@ Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som före
 
 Eleven ger exempel på olika sätt att spara och betala och beskriver på ett **välutvecklat** sätt vad som kan påverka konsumtionsval.
 
-Eleven värderar på ett **väl**** utvecklat** sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.
+Eleven värderar på ett **väl utvecklat** sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.
 
 ### Kunskapskrav för betyget E i slutet av årskurs 9
 
@@ -135,4 +135,4 @@ Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter so
 
 Eleven beskriver på ett **välutvecklat** sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval.
 
-Eleven värderar på ett **väl**** utvecklat** sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.
+Eleven värderar på ett **väl utvecklat** sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.
