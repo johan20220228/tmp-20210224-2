@@ -40,7 +40,6 @@ Undervisningen i ämnet modersmål – romani chib som nationellt minoritetsspr�
 #### Läsa och skriva
 
 - Lässtrategier för att förstå och tolka texter från olika medier samt för att anpassa läsningen efter textens form och innehåll.
-
 - Strategier för skrivande av olika typer av texter om ämnen som är välbekanta för eleven.
 - Stavningsregler för vanligt förekommande ord i elevnära texter.
 - Alfabetet på romani chib och sambandet mellan ljud och bokstav.
@@ -421,7 +420,7 @@ I muntliga framställningar av olika slag formulerar sig eleven **enkelt och beg
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
 I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
-Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
+Dessutom använder eleven strategier som **i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven för **enkla** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör romer.
 
@@ -438,7 +437,7 @@ Eleven läser samt förstår och tolkar **huvudsakligt innehåll och tydliga det
 Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
-I skriftliga framställningar av olika slag formulerar sig eleven** enkelt, relativt tydligt och till viss del sammanhängande**.
+I skriftliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
 I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som** i viss utsträckning** underlättar och förbättrar interaktionen.
