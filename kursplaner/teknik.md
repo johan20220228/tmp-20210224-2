@@ -154,8 +154,8 @@ Eleven beskriver på ett **enkelt** sätthur några tekniska lösningar har för
 Eleven undersöker olika tekniska lösningar och förklarar på ett **enkelt** sätthur ingående delar samverkar för att uppnå ändamålsenlighet och funktion.
 
 Eleven genomför teknikutvecklings- och konstruktionsarbeten på ett **delvis genomarbetat** sätt.
-I arbetet **prövar** eleven idéer till lösningar och **bidrar till **att formulera och välja handlingsalternativ.
-Eleven gör dokumentationer där intentionen i lösningen** till viss del** är synliggjord.
+I arbetet **prövar** eleven idéer till lösningar och **bidrar till** att formulera och välja handlingsalternativ.
+Eleven gör dokumentationer där intentionen i lösningen **till viss del** är synliggjord.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -169,8 +169,8 @@ Eleven beskriver på ett **utvecklat** sätthur några tekniska lösningar har f
 Eleven undersöker olika tekniska lösningar och förklarar på ett **utvecklat** sätthur ingående delar samverkar för att uppnå ändamålsenlighet och funktion.
 
 Eleven genomför teknikutvecklings- och konstruktionsarbeten på ett **genomarbetat** sätt.
-I arbetet **prövar och omprövar** eleven idéer till lösningar samt formulerar och väljer handlingsalternativ **som med någon bearbetning leder framåt **.
-Eleven gör dokumentationer där intentionen i lösningen är** relativt väl** synliggjord.
+I arbetet **prövar och omprövar** eleven idéer till lösningar samt formulerar och väljer handlingsalternativ **som med någon bearbetning leder framåt**.
+Eleven gör dokumentationer där intentionen i lösningen är **relativt väl** synliggjord.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 9
 
