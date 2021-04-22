@@ -291,8 +291,8 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalent **väl**.
 Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
 
-Eleven skriver olika slags texter med **tydligt** innehåll, **väl fungerande **struktur och** god **språklig variation.
-Eleven följer grundläggande regler för språkriktighet med** god** säkerhet.
+Eleven skriver olika slags texter med **tydligt** innehåll, **väl fungerande** struktur och **god** språklig variation.
+Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
 
 Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med **mycket gott flyt** och visar **mycket god** läsförståelse.
 Dessutom sammanfattar eleven olika texter med **god** säkerhet.
@@ -316,8 +316,8 @@ Dessutom sammanfattar eleven olika texter med **viss** säkerhet.
 Eleven för **enkla** resonemang om innehållet i olika texter.
 Eleven visar också **grundläggande** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
 
-Eleven söker och väljer med **viss** säkerhet information från olika källor och presenterar informationen på ett **i huvudsak fungerande **sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
-Eleven för** till viss del** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
+Eleven söker och väljer med **viss** säkerhet information från olika källor och presenterar informationen på ett **i huvudsak fungerande** sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
+Eleven för **till viss del** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
 
 Eleven för utifrån givna exempel **enkla** resonemang om några aspekter av språk och språkbruk i Sverige och Norden.
 
@@ -334,10 +334,10 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **funger
 Eleven skriver olika slags texter med **relativt god** språklig variation, **fungerande** struktur och innehåll samt **relativt god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer språkliga normer på ett **fungerande** sätt.
 
-Eleven läser skönlitteratur och sakprosatexter med **gott flyt **och visar** god **läsförståelse.
-Dessutom sammanfattar eleven olika texter med** god **säkerhet.
-Eleven för** utvecklade **resonemang om innehållet i olika texter.
-Eleven visar också** goda** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
+Eleven läser skönlitteratur och sakprosatexter med **gott flyt** och visar **god** läsförståelse.
+Dessutom sammanfattar eleven olika texter med **god** säkerhet.
+Eleven för **utvecklade** resonemang om innehållet i olika texter.
+Eleven visar också **goda** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
 
 Eleven söker och väljer med **relativt god** säkerhet information från olika källor och presenterar informationen på ett **fungerande** sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
 Eleven för **relativt väl** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
@@ -354,15 +354,15 @@ Eleven samtalar om och diskuterar varierande ämnen på ett sätt somutvecklar s
 Eleven framför åsikter med **väl** underbyggda argument.
 Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** struktur och innehåll och **god** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver olika slags texter med **god** språklig variation, **väl**  **fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver olika slags texter med **god** språklig variation, **väl fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer språkliga normer på ett **väl fungerande** sätt.
 
-Eleven läser skönlitteratur och sakprosatexter med **mycket gott flyt **och visar **mycket god**läsförståelse.
+Eleven läser skönlitteratur och sakprosatexter med **mycket gott flyt** och visar **mycket god** läsförståelse.
 Dessutom sammanfattar eleven olika texter med **mycket god** säkerhet.
 Eleven för **välutvecklade** resonemang om innehållet i olika texter.
-Eleven visar också** mycket goda** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
+Eleven visar också **mycket goda** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
 
-Eleven söker och väljer med **god** säkerhet information från olika källor och presenterar informationen på ett **väl fungerande **sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
-Eleven för** väl** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
+Eleven söker och väljer med **god** säkerhet information från olika källor och presenterar informationen på ett **väl fungerande** sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
+Eleven för **väl** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
 
 Eleven för utifrån givna exempel **välutvecklade** resonemang om några aspekter av språk och språkbruk i Sverige och Norden.
