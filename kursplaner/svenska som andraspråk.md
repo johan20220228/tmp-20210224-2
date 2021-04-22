@@ -346,8 +346,8 @@ Dessutom sammanfattar eleven olika texter med **viss** säkerhet.
 Eleven för **enkla** resonemang om innehållet i olika texter.
 Eleven visar också **grundläggande** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
 
-Eleven söker och väljer med **viss** säkerhet information från olika källor och presenterar informationen på ett **i huvudsak fungerande **sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
-Eleven för** till viss del** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
+Eleven söker och väljer med **viss** säkerhet information från olika källor och presenterar informationen på ett **i huvudsak fungerande** sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar.
+Eleven för **till viss del** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -392,5 +392,5 @@ Dessutom sammanfattar eleven olika texter med **mycket god** säkerhet.
 Eleven för **välutvecklade** resonemang om innehållet i olika texter.
 Eleven visar också **mycket goda** kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i.
 
-Eleven söker och väljer med **god** säkerhet information från olika källor och presenterar informationen på ett **väl fungerande **sätt, med egna formuleringar, ämnesrelaterat språksamt citat och källhänvisningar.
-Eleven för** väl** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
+Eleven söker och väljer med **god** säkerhet information från olika källor och presenterar informationen på ett **väl fungerande** sätt, med egna formuleringar, ämnesrelaterat språksamt citat och källhänvisningar.
+Eleven för **väl** underbyggda resonemang om informationens och källornas trovärdighet och relevans.
