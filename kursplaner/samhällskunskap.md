@@ -97,7 +97,6 @@ Vad skatter är och vad kommuner, regioner och stat använder skattemedel till.
 
 - Vad demokrati är och hur demokratiska beslut fattas.
 Hur individer och grupper kan påverka beslut, genom att rösta i allmänna val och till exempel genom elevråd i skolan eller genom att skapa opinion i sociala medier.
-
 - Riksdagen och regeringen och deras olika uppdrag.
 Politiska val och partier i Sverige.
 Skiljelinjer i några aktuella politiska frågor.
