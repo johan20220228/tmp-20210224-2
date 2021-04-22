@@ -1,6 +1,6 @@
 ## Modersmål
 
-## Kursplan - Modersmål utom nationella minoritetsspråk
+## Kursplan – Modersmål utom nationella minoritetsspråk
 
 Språk är människans främsta redskap för att tänka, kommunicera och lära.
 Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker.
