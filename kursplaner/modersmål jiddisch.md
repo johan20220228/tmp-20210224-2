@@ -248,14 +248,14 @@ Idiomatiska uttryck och ordspråk.
 
 #### Jiddischkultur
 
-– jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
+- Jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
 Organisationer som arbetar för att främja jiddisch och jiddischkulturen.
 - Några jiddischförfattare och vilka verk de är kända för.
 - Sociala, politiska och kulturella strömningar i jiddischvärlden från slutet av 1800-talet, till exempel _Bund,_ sång och teater i jiddischvärlden och jiddischlitteraturens guldålder.
 - Förintelsens konsekvenser för jiddisch och jiddischkulturen.
 - Några aktuella samhällsfrågor som berör judar, även i jämförelse med liknande frågor hos andra nationella minoriteter i Sverige.
 
-## KUNSKAPSKRAV I ÄMNET MODERSMÅL – jiddisch SOM NATIONELLT MINORITETSSPRÅK
+## KUNSKAPSKRAV I ÄMNET MODERSMÅL – JIDDISCH SOM NATIONELLT MINORITETSSPRÅK
 
 ### Inom ramen för jiddisch som förstaspråk
 
