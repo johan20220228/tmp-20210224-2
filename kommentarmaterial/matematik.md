@@ -123,7 +123,9 @@ Kunskapsområdena bör alltså inte ses som separata arbetsområden för undervi
 
 Under rubriken Centralt innehåll förekommer vissa exempel.
 De förtydligar innehållets inriktning, men är inte uttryck för att de bör prioriteras framför andra alternativ.
-Till exempel anges i årskurs 7–9att eleverna ska möta innehållet_härledda enheter, till exempel km/h och kr/kg_.Det innebär atthärledda enheterär obligatoriskt innehåll i årskurs 7–9.Däremot kan undervisningen lika väl som att behandlakm/h och kr/kgta upp andra härledda enheter.
+Till exempel anges i årskurs 7–9 att eleverna ska möta innehållet _härledda enheter, till exempel km/h och kr/kg_.
+Det innebär atthärledda enheterär obligatoriskt innehåll i årskurs 7–9.
+Däremot kan undervisningen lika väl som att behandla km/h och kr/kgta upp andra härledda enheter.
 
 ## Innehållet i ämnet matematik
 
@@ -730,7 +732,7 @@ Eleven använder och ger exempel på enkla proportionella samband_.
 Det här stycket innehåller krav på att eleven visar kunskaper inom vart och ett av en rad områden.
 Formuleringarna avser att omfatta bedömning av olika aspekter av elevens kunskaper om matematiska begrepp.
 Skrivningen i första delen av meningen handlar om både bredden och djupet i elevens kunskaper i förhållande till det centrala innehållet och den undervisning som har bedrivits.
-Detta följs sedan upp med formuleringen _använder och beskriver begrepp och samband mellan begrep_p_,_ vilket riktar in sig på vilken förståelse eleven visar för begreppen i sin användning av dem i beskrivningar och förklaringar av samband mellan begrepp.
+Detta följs sedan upp med formuleringen _använder och beskriver begrepp och samband mellan begrepp_, vilket riktar in sig på vilken förståelse eleven visar för begreppen i sin användning av dem i beskrivningar och förklaringar av samband mellan begrepp.
 
 I sin bedömning kan läraren titta på i vilken mån eleven upptäcker eller identifierar begrepp i olika sammanhang, och hur korrekt eller utförligt eleven tolkar och beskriver begrepp.
 Läraren kan också bedöma hur väl eleven ser likheter och konstraster mellan begrepp och hur eleven använder olika uttrycksformer för att beskriva begrepp.
@@ -769,8 +771,7 @@ Med stigande ålder ökar komplexiteten i val och användning av matematiska met
 
 I sin bedömning kan läraren titta på hur väl eleven väljer metoder som är anpassade till situation och frågeställningar, i vilken mån eleven fullföljer valda metoder – även i mer krävande fall – samt i vilken mån de metoder som eleven använder är utvecklingsbara eller går att generalisera.
 
-#### Förmåga att formulera och lösa problem med hjälp
- av matematik och värdera valda strategier
+#### Förmåga att formulera och lösa problem med hjälp av matematik och värdera valda strategier
 
 Det tredje stycket i kunskapskraven (som återges nedan) avser att rikta lärarens bedömningsfokus mot hur eleven löser problem med hjälp av matematik.
 Detta omfattar exempelvis att upptäcka, formulera, utforska eller analysera problem, välja och utvärdera strategier för att lösa problem samt att utvärdera resultat.
