@@ -18,20 +18,20 @@ Syftestexten avslutas med ett antal långsiktiga mål som avgränsar de delar av
 
 ### Intresse, kunskaper och tilltro
 
-Ett syfte med undervisningen i matematik är eleverna ska utveckla _intresse för_ och _kunskaper om matematik och matematikens användning i vardagen och inom olika ämnesområden-.
+Ett syfte med undervisningen i matematik är eleverna ska utveckla _intresse för_ och _kunskaper om matematik och matematikens användning i vardagen och inom olika ämnesområden_.
 Intresse och kunskaper ger förutsättningar att vara engagerad och delaktig i situationer där matematik har en central roll.
 Undervisningen behöver därför ge eleverna erfarenheter av olika situationer där matematikens roll i samhället och inom olika ämnesområden synliggörs.
 Eleverna kan exempelvis få utforska matematiken i allt från ekonomiska frågor och väljarundersökningar till att laga mat eller att överväga huruvida det går fortare att gå en sträcka än att åka buss.
 Undervisningen kan se olika ut beroende på elevernas ålder, var eleverna bor, hur närsamhället ser ut, vad eleverna möter i andra ämnen eller vilka händelser som är aktuella.
 
-Ytterligare ett syfte med undervisningen är att eleverna ska utveckla _tilltro till sin förmåga att använda matematik i olika sammanhang-.
+Ytterligare ett syfte med undervisningen är att eleverna ska utveckla _tilltro till sin förmåga att använda matematik i olika sammanhang_.
 Att känna tilltro till sin förmåga är centralt för att utvecklas och bli självständig i vardagen.
 Det handlar om att våga utforska, pröva sig fram, växla mellan perspektiv, använda sig av nya metoder och reflektera över processer och resultat.
 En undervisning i matematik där eleverna är aktiva, utforskar och får uppleva att de lyckas, stärker denna tilltro.
 
 ### Estetiska värden
 
-Undervisningen ska även syfta till att eleverna ges möjlighet _att uppleva estetiska värden i möten med matematiska mönster, former och samband-.
+Undervisningen ska även syfta till att eleverna ges möjlighet _att uppleva estetiska värden i möten med matematiska mönster, former och samband_.
 Det kan exempelvis handla om att uppleva geometriska objekt och deras uppbyggnad, konstruktioner av perspektiv eller av algebraiska uttryck som på ett enkelt sätt uttrycker generella lösningar eller insikter om matematiska relationer.
 Det finns ett egenvärde i att uppleva estetiska värden.
 Dessa erfarenheter ger också eleverna förutsättningar att förstå och upptäcka matematiska mönster, strukturer och samband i samhället och omvärlden i stort.
@@ -88,8 +88,7 @@ Matematikens uttrycksformer kan handla om att uttrycka talet åtta med symbolen 
 Andra exempel kan vara att med hjälp av en formel, tabell eller graf beskriva hur ett radioaktivt ämne sönderfaller, eller att beskriva villkor för rätvinkliga trianglar genom Pythagoras sats.
 Undervisningen behöver därför ge eleverna möjlighet att i olika sammanhang använda matematikens uttrycksformer för att kommunicera.
 
-### Historiska sammanhang
- och matematikens relevans
+### Historiska sammanhang och matematikens relevans
 
 Syftestexten anger att undervisningen ska ge eleverna förutsättningar att _utveckla kunskaper om historiska sammanhang där viktiga begrepp och metoder i matematiken har utvecklats_.
 Undervisningen ska även syfta till att eleverna reflekterar över _matematikens betydelse, användning och begränsning i vardagslivet, i andra skolämnen och under historiska skeenden_.
@@ -159,7 +158,7 @@ Skrivningen avser att sätta fokus på situationer där matematik används, blan
 Eleverna har ofta erfarenheter av den här typen av tal som undervisningen kan utgå från, till exempel i matlagning efter recept eller att en frukt delad i fyra består av fyra fjärdedelar.
 Med enkla tal i bråkform avses exempelvis ½, ¼ eller andra bråk som kan förekomma i elevens närhet.
 
-I årskurs 4–6 ska undervisningen behandla _rationella tal, däribland negativa tal, och deras egenskaper samt hur talen kan delas upp och användas samt hur tal i bråk- och decimalform kan användas i vardagliga situationer-.
+I årskurs 4–6 ska undervisningen behandla _rationella tal, däribland negativa tal, och deras egenskaper samt hur talen kan delas upp och användas samt hur tal i bråk- och decimalform kan användas i vardagliga situationer_.
 Egenskaper hos rationella tal kan exempelvis vara täljarens och nämnarens innebörd för tal skrivna i bråkform, och att rationella tal kan skrivas på olika sätt.
 Att dela upp rationella tal kan till exempel innebära att dela upp talet 1 i tio tiondelar, eller att dela upp fem fjärdedelar i en hel och en fjärdedel.
 
@@ -167,7 +166,7 @@ Att arbeta med rationella tal omfattar även att använda och skriva tal med dec
 Det här är ett vanligt sätt att representera tal och förekommer exempelvis i situationer där eleverna mäter sträckor eller avläser temperatur.
 Att se tal i sådana situationer kan öka elevernas förståelse inte bara för talen och deras relationer, utan också för hur man kan tillämpa matematik i vardagen.
 
-I årskurs 7–9 vidgas de talmängder som elever får möta med innehållet _reella tal och deras egenskaper samt talens användning i matematiska situationer och talsystemets utveckling från naturliga tal till reella tal-.
+I årskurs 7–9 vidgas de talmängder som elever får möta med innehållet _reella tal och deras egenskaper samt talens användning i matematiska situationer och talsystemets utveckling från naturliga tal till reella tal_.
 I matematiska sammanhang finns behov av tal som inte kan beskrivas som ett bråk mellan två heltal.
 För att få med alla reella tal krävs därmed nya sätt att uttrycka tal, såsom √2 och π.
 
@@ -194,7 +193,7 @@ Inom det här området finns också möjligheter för eleverna att ta del av och
 För att kunna beskriva ett matematiskt innehåll behöver eleverna förstå att tal kan representeras på olika sätt, till exempel med hjälp av konkret material, bilder och symboler för tal.
 Att kunna växla mellan olika representationer stärker också förståelsen för tal och deras samband.
 
-I årskurs 1–3 ska eleverna möta innehållet _tal i bråkform som del av helhet och del av antal samt hur delarna kan benämnas och uttryckas som enkla bråk och hur enkla bråk förhåller sig till naturliga tal-.
+I årskurs 1–3 ska eleverna möta innehållet _tal i bråkform som del av helhet och del av antal samt hur delarna kan benämnas och uttryckas som enkla bråk och hur enkla bråk förhåller sig till naturliga tal_.
 Här läggs grunden för elevernas förståelse av begreppen del av helhet och del av antal, vilket är en förutsättning för att de ska kunna utveckla kunskaper i algebra samt vidare även om procent.
 
 I årskurs 4–6 vidgas innehållet till _tal i procentform och deras samband med tal i bråk- och decimalform_.
@@ -224,7 +223,7 @@ Med metoder avser kursplanen här utvecklingsbara metoder, det vill säga metode
 Beräkningar med naturliga tal avser i lågstadiet att börja inom ett lägre talområde som utvidgas efter hand.
 Huvudräkning avses börja inom ett än mer begränsat talområde, vilket också det utvidgas efter hand.
 
-I årskurs 4–6 utvidgas innehållet till _metoder för beräkningar med naturliga tal och enkla tal i bråk- och decimalform vid överslagsräkning, huvudräkning och skriftlig beräkning samt användning av digitala verktyg vid beräkningar-.
+I årskurs 4–6 utvidgas innehållet till _metoder för beräkningar med naturliga tal och enkla tal i bråk- och decimalform vid överslagsräkning, huvudräkning och skriftlig beräkning samt användning av digitala verktyg vid beräkningar_.
 Beräkningar med enkla tal i bråkform kan till exempel omfatta att lägga ihop eller subtrahera bråktal med gemensam nämnare.
 
 I årskurs 7–9 utvidgas det ytterligare till _metoder för beräkningar med tal i bråk- och decimalform vid överslagsräkning, huvudräkning och skriftlig beräkning samt användning av digitala verktyg vid beräkningar_.
@@ -239,7 +238,7 @@ Att kunna göra en rimlighetsbedömning är väsentligt för att utveckla en kä
 Det centrala innehållet _rimlighetsbedömning vid uppskattningar och beräkningar_ återkommer i alla årskurser.
 Progressionen tar sin utgångspunkt i att eleverna i de lägre årskurserna reflekterar över rimligheter i enkla eller elevnära situationer.
 Dessa kan vara både vardagliga och matematiska – till exempel att bedöma rimligheten i en överslagsberäkning av hur lång tid det tar att gå till skolan, eller att ta ställning till om det är rimligt att 19 minus 6 är lika med 2.
-Med stigande ålder omfattar rimlighetsbedömningarna beräkningar och uppskattningar i allt vidare sammanhang; det kan till exempel vara i mer komplexa fråge-ställningar eller i mindre bekanta situationer.
+Med stigande ålder omfattar rimlighetsbedömningarna beräkningar och uppskattningar i allt vidare sammanhang; det kan till exempel vara i mer komplexa frågeställningar eller i mindre bekanta situationer.
 Det finns även en progression i att eleverna i de högre årskurserna förväntas argumentera vid rimlighetsbedömningar på ett mer systematiskt och precist sätt.
 
 Rimlighetsbedömning är centralt även när det gäller beräkningar och uppskattningar inom övriga kunskapsområden, exempelvis vid uppskattningar av olika storheter, metoder för hur omkrets och area kan uppskattas och hur lägesmått och spridningsmått kan användas för bedömning av resultat.
@@ -312,7 +311,7 @@ I årskurs 4–6 ingår att formulera _enkla algebraiska uttryck och ekvationer_
 Med den grundläggande kunskapen kan de övergå till att lösa enkla ekvationer genom en algebraisk metod, men också exempelvis genom att pröva sig fram.
 Kursplanen uttrycker det som att undervisningen i årskurs 4–6 ska behandla _metoder, däribland algebraiska, för att lösa enkla ekvationer_.
 
-I årskurs 7–9 är motsvarande innehåll formulerat som _metoder för att lösa linjära ekvationer och enkla andragradsekvationer-.
+I årskurs 7–9 är motsvarande innehåll formulerat som _metoder för att lösa linjära ekvationer och enkla andragradsekvationer_.
 Progressionen ligger i att eleverna i de högre årskurserna får möta generella metoder för att lösa ekvationer där exempelvis flera termer ingår, och även andragradsekvationer.
 Med enkla andragradsekvationer avses ekvationer som löses genom beräkning av kvadratrötter, exempelvis 3_x_2 = 27 eller _x_2 + 36 = 100.
 Här finns även beröringar med Pythagoras sats som kan användas inom geometrin.
@@ -361,7 +360,7 @@ Kunskapsområdet har flera beröringspunkter med områdena &quot;Algebra&quot; o
 Geometriska objekt och deras egenskaper är ett genomgående innehåll i alla årskurser.
 Den övergripande progressionen i mötet med geometriska begrepp och objekt utgår från de konkreta formerna samt deras egenskaper och relationer, för att successivt övergå till olika objekts egenskaper och relationer i matematiska sammanhang, till exempel vid beräkningar av omkrets, area och volym.
 
-I årskurs 1–3 ska undervisningen behandla _grundläggande geometriska tvådimensionella objekt samt objekten klot, kon, cylinder och rätblock samt egenskaper hos dessa objekt och deras inbördes relationer och även konstruktion av geometriska objekt-.
+I årskurs 1–3 ska undervisningen behandla _grundläggande geometriska tvådimensionella objekt samt objekten klot, kon, cylinder och rätblock samt egenskaper hos dessa objekt och deras inbördes relationer och även konstruktion av geometriska objekt_.
 Grundläggande plangeometriska objekt kan exempelvis vara punkt, linje, sträcka, triangel, fyrhörning och cirkel.
 För de lägre åldrarna kan praktiskt arbete med att konstruera och använda geometriska objekt ge en grund för att bli förtrogen med deras utseende, namn och relationer.
 Eleverna ska också tidigt få undervisning om och förståelse för att positionen inte har någon betydelse för den geometriska formen, det vill säga att exempelvis en triangel fortfarande är en triangel även om den vrids och intar en annan position.
@@ -369,7 +368,7 @@ På så sätt kan eleverna utveckla kunskaper om och förståelse för dels de e
 
 I årskurs 1–3 ska undervisningen även behandla _vanliga lägesord för att beskriva föremåls och objekts läge i rummet_, vilket kan utveckla elevernas rumsuppfattning, exempelvis hur olika föremål i ett rum, på en hylla eller en enkel ritning är placerade i förhållande till varandra.
 
-I årskurs 4–6 behandlas _grundläggande geometriska två- och tredimensionella objekt samt deras egenskaper och inbördes relationer och även konstruktion av geometriska objekt, såväl med som utan digitala verktyg-.
+I årskurs 4–6 behandlas _grundläggande geometriska två- och tredimensionella objekt samt deras egenskaper och inbördes relationer och även konstruktion av geometriska objekt, såväl med som utan digitala verktyg_.
 Här omfattar det centrala innehållet ytterligare geometriska objekt, till exempel polygon och pyramid.
 Det är också värdefullt att i undervisningen fördjupa användningen av geometriska objekt från tidigare årskurser, exempelvis med sammansatta geometriska objekt.
 Behandlandet av objekten, och relationerna mellan dem, kan också göras mer formellt.
@@ -377,7 +376,7 @@ Exempelvis kan undervisningen ta upp regelbundna månghörningar, som har tydlig
 Man kan också ta upp speciella typer av trianglar, som även har kopplingar till begreppet vinkel.
 
 I årskurs 7–9 finns inga uttalade begränsningar för vilka objekt som ska studeras.
-Här är innehållet formulerat som _geometriska objekt samt deras egenskaper och inbördes relationer samt konstruktion av geometriska objekt, såväl med som utan digitala verktyg-.
+Här är innehållet formulerat som _geometriska objekt samt deras egenskaper och inbördes relationer samt konstruktion av geometriska objekt, såväl med som utan digitala verktyg_.
 Skrivningen ger utrymme att ta upp mindre vanliga geometriska former, såsom cirkelsektor och de platonska kropparna.
 Det är också värdefullt att i undervisningen fördjupa användningen av geometriska objekt från tidigare årskurser, såsom vinklar.
 
@@ -401,9 +400,9 @@ Med kunskaper om hur bland annat ökat handelsutbyte ledde till en utveckling mo
 Utvecklingen av digitala mätinstrument som till exempel laserinstrument och GPS har medfört att mätmetoderna har förändrats och utvecklats snabbt.
 Därigenom har behovet av att reflektera över mätresultat, mätsäkerhet och lämplig måttenhet också ökat.
 
-I årskurs 4–6 ingår innehållet _jämförelse, uppskattning och mätning av längd, area, massa, volym, tid och vinkel med standardiserade måttenheter samt enhetsbyten i samband med detta-.
+I årskurs 4–6 ingår innehållet _jämförelse, uppskattning och mätning av längd, area, massa, volym, tid och vinkel med standardiserade måttenheter samt enhetsbyten i samband med detta_.
 Detta kan exempelvis omfatta att omvandla mellan minuter och timmar, eller att uttrycka en viss massa i gram, hektogram och kilogram.
-Här ska undervisningen också behandla _metoder för hur omkrets och area hos olika tvådimensionella geometriska figurer kan bestämmas och uppskattas-.
+Här ska undervisningen också behandla _metoder för hur omkrets och area hos olika tvådimensionella geometriska figurer kan bestämmas och uppskattas_.
 Med metoder avser kursplanen för de här årskurserna olika formella eller informella tillvägagångssätt.
 
 I årskurs 7–9 tillkommer _metoder för beräkning av area, omkrets och volym hos geometriska objekt, samt enhetsbyten i samband med detta_.
@@ -519,12 +518,12 @@ Genom att använda digitala verktyg inom statistik kan eleverna också få möjl
 Ett vanligt exempel på digitalt verktyg för att bearbeta data är kalkylprogram.
 Digitala verktyg inom statistik kan också ge eleven ökade möjligheter att dela med sig av sina resultat till andra.
 
-Kursplanen anger att eleverna i årskurs 1–3 ska få möta _enkla tabeller och diagram och hur de kan användas för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg-.
+Kursplanen anger att eleverna i årskurs 1–3 ska få möta _enkla tabeller och diagram och hur de kan användas för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg_.
 Detta kan innebära att elever får avläsa data och själv skapa enkla tabeller och diagram utifrån konkreta situationer.
 Enkla typer av tabeller och diagram kan till exempel omfatta stapeldiagram, cirkeldiagram och tabeller där antal betecknas med streck eller siffror.
 När eleverna arbetar med egna undersökningar kan de utveckla fler sätt att presentera data på, med stöd av bilder, konkret material eller digital teknik.
 
-I årskurs 4–6 utvidgas innehållet till _tabeller och diagram för att beskriva resultat från undersökningar, såväl med som utan digitala verktyg_ och även _tolkning av data i tabeller och diagram-.
+I årskurs 4–6 utvidgas innehållet till _tabeller och diagram för att beskriva resultat från undersökningar, såväl med som utan digitala verktyg_ och även _tolkning av data i tabeller och diagram_.
 Elever får här avläsa och skapa fler typer av diagram och tabeller.
 Det kan till exempel vara linjediagram eller tabeller där flera mätserier ingår.
 Arbetet kan omfatta att läsa av tabeller och diagram från tidningar eller annan media, och även diskutera när ena eller andra typen av tabell och diagram är lämplig.
@@ -580,20 +579,20 @@ Andra proportionella samband som kan rymmas i de lägre årskurserna är att om 
 I årskurs 4–6 finns innehållet _proportionalitet samt hur proportionella samband kan uttryckas i bråk-, decimal- och procentform_.
 Detta omfattar exempelvis att om förhållandet mellan del och helhet är konstant så är sambandet proportionellt.
 
-I årskurs 7–9 ingår _proportionalitet och hur det kan användas för att uttrycka skala, likformighet och förändring-.
-Här finns också innehållet _härledda enheter, till exempel km/h och kr/kg-.
+I årskurs 7–9 ingår _proportionalitet och hur det kan användas för att uttrycka skala, likformighet och förändring_.
+Här finns också innehållet _härledda enheter, till exempel km/h och kr/kg_.
 Det kan till exempel omfatta proportionalitet mellan motsvarade sidor i likformiga figurer, eller att förhållandet mellan hur mycket lösgodis man köper och hur mycket det kostar beskrivs av en proportionalitet.
-I årskurs 7–9 ingår även _procent och förändringsfaktor för att uttrycka förändring samt beräkningar med procent i vardagliga situationer och inom olika ämnesområden-.
+I årskurs 7–9 ingår även _procent och förändringsfaktor för att uttrycka förändring samt beräkningar med procent i vardagliga situationer och inom olika ämnesområden_.
 I undervisningen kan det exempelvis vara olika beräkningar med procent, såsom att beräkna andel i procent, beräkna del eller helhet då procenttalet är känt, eller att beräkna värden före eller efter en förändring med hjälp av förändringsfaktor eller procent.
 
 ### Funktioner, grafer och koordinatsystem
 
 Genom kunskapsområdet &quot;Sannolikhet och statistik&quot; ska eleverna i årskurs 1–3 ges möjlighet att utveckla grundläggande kunskaper om hur de kan använda enkla tabeller och diagram för att sortera data och beskriva resultat från undersökningar.
 Dessa kunskaper tillämpas och utvecklas vidare i årskurs 4–6, i kunskapsområdena &quot;Sannolikhet och statistik&quot; samt &quot;Samband och förändring&quot;.
-I &quot;Samband och förändring&quot; synliggörs detta genom innehållet _grafer för att uttrycka proportionella samband-.
+I &quot;Samband och förändring&quot; synliggörs detta genom innehållet _grafer för att uttrycka proportionella samband_.
 Med hjälp av grafer och koordinatsystem kan eleverna visualisera samband och förändringar.
 Det kan till exempel vara att med en graf illustrera hur långt en bil med en viss hastighet hinner på en viss tid.
-I årskurs 4–6 ska undervisningen även behandla _koordinatsystem och gradering av koordinataxlar-.
+I årskurs 4–6 ska undervisningen även behandla _koordinatsystem och gradering av koordinataxlar_.
 Det innebär att eleverna ges möjlighet att göra graderingar av koordinataxlar, för att sedan placera ut punkter utifrån information av olika slag.
 Här ingår också att lokalisera punkter i ett koordinatsystem eller en graf utifrån givna frågeställningar eller situationer.
 
@@ -635,7 +634,7 @@ Med elevnära situationer menas bekanta och vardagliga sammanhang, och med stiga
 Stigande komplexitet kan exempelvis innebära att problemen kräver mer avancerade tolkningar eller bearbetningar för att lösas, eller att mindre ledning ges i hur problemen kan hanteras.
 Att det övriga centrala innehållet blir mer avancerat bidrar också till en naturlig ökning av problemens komplexitet.
 
-I årskurs 7–9 är motsvarande innehåll _strategier för att lösa matematiska problem i olika situationer och inom olika ämnesområden samt värdering av valda strategier och metoder-.
+I årskurs 7–9 är motsvarande innehåll _strategier för att lösa matematiska problem i olika situationer och inom olika ämnesområden samt värdering av valda strategier och metoder_.
 Här vidgas sammanhangen för elevernas problemlösning ytterligare.
 Att kunna värdera sina val av strategier är en viktig aspekt av problemlösning.
 Genom att eleverna i de högre årskurserna utvecklar kunskaper om hur man kan värdera sina val, utvecklar de en medvetenhet om hur effektivt deras tillvägagångssätt är i förhållande till problemet.
