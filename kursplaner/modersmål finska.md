@@ -264,7 +264,7 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **i huvu
 Eleven skriver olika slags texter med **begripligt** innehåll, **i huvudsak fungerande **struktur och** viss **språklig variation.
 Eleven följer grundläggande regler för stavning, meningsbyggnad och ordböjning med** viss** säkerhet.
 
-Eleven läser olika texter med **visst**  **flyt** och visar **grundläggande** läsförståelse.
+Eleven läser olika texter med **visst flyt** och visar **grundläggande** läsförståelse.
 Eleven för **enkla** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven ger **enkla** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -281,7 +281,7 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **funger
 Eleven skriver olika slags texter med **relativt tydligt** innehåll, **fungerande** struktur och **relativt god** språklig variation.
 Eleven följer grundläggande regler för stavning, meningsbyggnad och ordböjning med **relativt god** säkerhet.
 
-Eleven läser olika texter med **relativt gott**  **flyt** och visar **god** läsförståelse.
+Eleven läser olika texter med **relativt gott flyt** och visar **god** läsförståelse.
 Eleven för **utvecklade** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven ger **utvecklade** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -298,7 +298,7 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **väl f
 Eleven skriver olika slags texter med **tydligt** innehåll, **väl fungerande **struktur och** god **språklig variation.
 Eleven följer grundläggande regler för stavning, meningsbyggnad och ordböjning med** god** säkerhet.
 
-Eleven läser olika texter med **gott**  **flyt** och visar **mycket god** läsförståelse.
+Eleven läser olika texter med **gott flyt** och visar **mycket god** läsförståelse.
 Eleven för **välutvecklade** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven ger **välutvecklade** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -330,7 +330,7 @@ Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar 
 Dessutom förbereder och genomför eleven muntliga framställningar med **fungerande** struktur, innehåll och **relativt god** anpassning till syfte, mottagare och sammanhang.
 
 Eleven skriver olika slags texter med **relativt god** språklig variation, **fungerande** struktur och innehåll samt **relativt god** anpassning till texttyp, syfte, mottagare och sammanhang.
-Eleven följer grundläggande regler för språkriktighet med **relativt**  **god** säkerhet.
+Eleven följer grundläggande regler för språkriktighet med **relativt god** säkerhet.
 
 Eleven läser olika texter med **gott flyt **och visar** god **läsförståelse.
 Dessutom tolkar och för eleven** utvecklade** resonemang om budskap i olika texter.
@@ -351,7 +351,7 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **väl f
 Eleven skriver olika slags texter med **god** språklig variation, **väl fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
 
-Eleven läser olika texter med **mycket**  **gott flyt **och visar** mycket god** läsförståelse.
+Eleven läser olika texter med **mycket gott flyt **och visar** mycket god** läsförståelse.
 Dessutom tolkar och för eleven **välutvecklade** resonemang om budskap i olika texter.
 
 Eleven för **vä l utvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör sverigefinnar.
@@ -366,10 +366,10 @@ Eleven lyssnar, och förstår **vanliga ord och enkla fraser** i tydligt talat, 
 Eleven läser, och förstår **vanliga ord och enkla fraser** i korta, enkla texter om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder **på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser **.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 I skriftliga framställningar av olika slag formulerar sig eleven** enkelt och begripligt med enstaka ord och fraser**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt med enstaka ord och fraser **.
+I interaktion uttrycker sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven ger **enkla** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -384,10 +384,10 @@ Eleven lyssnar, och förstår **huvudsakligt innehåll och tydliga detaljer** i 
 Eleven läser, och förstår **huvudsakligt innehåll och tydliga detaljer** i korta, enkla texter om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar **.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
 I skriftliga framställningar av olika slag formulerar sig eleven** enkelt och relativt tydligt med fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och**  **meningar**.
+I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
 
 Eleven ger **utvecklade** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -407,7 +407,7 @@ Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och relativt tydligt  med ord, fraser och  meningar**.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som underlättar och förbättrarinteraktionen.
 
 Eleven ger **välutvecklade** exempel på sociala, historiska och kulturella företeelser som berör sverigefinnar.
@@ -423,8 +423,8 @@ Eleven väljer enkel information från ett avgränsat urval av muntliga och skri
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt  med ord, fraser och meningar **.
-Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
+I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
+Dessutom använder eleven strategier som **i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven för **enkla** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör sverigefinnar.
 
@@ -443,7 +443,7 @@ Eleven väljer enkel information från ett avgränsat urval av muntliga och skri
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och relativt tydligt  med ord, fraser och meningar **.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som** i viss utsträckning** underlättar och förbättrar interaktionen.
 
 Eleven för **utvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör sverigefinnar.
@@ -460,10 +460,10 @@ Eleven lyssnar samt förstår och tolkar **helheten och väsentliga detaljer** i
 Eleven läser samt förstår och tolkar **helheten och väsentliga detaljer** i enkla texter om vardagliga och välbekanta ämnen.
 Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **i någon mån varierat,**  **relativt tydligt och relativt sammanhängande**.
-I skriftliga framställningar av olika slag formulerar sig eleven **i någon mån varierat,**  **relativt tydligt och relativt sammanhängande**.
+I muntliga framställningar av olika slag formulerar sig eleven **i någon mån varierat, relativt tydligt och relativt sammanhängande**.
+I skriftliga framställningar av olika slag formulerar sig eleven **i någon mån varierat, relativt tydligt och relativt sammanhängande**.
 
-I interaktion uttrycker sig eleven **relativt**  **tydligt**  **med ord, fraser och meningar** samt **i någon mån anpassat till syfte, mottagare och situation**.
+I interaktion uttrycker sig eleven **relativt tydligt med ord, fraser och meningar** samt **i någon mån anpassat till syfte, mottagare och situation**.
 Dessutom använder eleven strategier som underlättar och förbättrarinteraktionen.
 
 Eleven för **välutvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör sverigefinnar.
