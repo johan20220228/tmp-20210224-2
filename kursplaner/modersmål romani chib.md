@@ -1,4 +1,4 @@
-## Modersmål - romani chib som nationellt minoritetsspråk
+## Modersmål – romani chib som nationellt minoritetsspråk
 
 Språk är människans främsta redskap för att tänka, kommunicera och lära.
 Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker.
@@ -13,7 +13,7 @@ Att ha kunskaper i språket och om minoritetens kultur kan ge nya perspektiv på
 
 ### Syfte
 
-Undervisningen i ämnet modersmål - romani chib som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
+Undervisningen i ämnet modersmål – romani chib som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
 Genom undervisningen ska eleverna ges möjlighet att utveckla sin flerspråkighet, sin förståelse av omvärlden och sin identitet.
 
 Undervisningen ska stimulera elevernas intresse för att samtala, läsa och skriva på det nationella minoritetsspråket.
@@ -25,7 +25,7 @@ Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den n
 Eleverna ska även ges förutsättningar att utveckla kunskaper om den nationella minoritetens musik, litteratur och andra estetiska uttrycksformer.
 Vidare ska eleverna ges förutsättningar att utveckla kunskaper om det nationella minoritetsspråkets ursprung, utveckling och nutida status.
 
-Undervisningen i ämnet modersmål - romani chib som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
+Undervisningen i ämnet modersmål – romani chib som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
 
 - förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,
 - förmåga att anpassa språket efter olika syften, mottagare och sammanhang,
@@ -253,7 +253,7 @@ Organisationer som arbetar för att främja romani chib och den romska kulturen.
 - Några romska författare och vilka verk de är kända för.
 - Några aktuella samhällsfrågor som berör romer, även i jämförelse med liknande frågor hos andra nationella minoriteter i Sverige.
 
-## KUNSKAPSKRAV I ÄMNET MODERSMÅL - ROMANI CHIB SOM NATIONELLT MINORITETSSPRÅK
+## KUNSKAPSKRAV I ÄMNET MODERSMÅL – ROMANI CHIB SOM NATIONELLT MINORITETSSPRÅK
 
 ### Inom ramen för romani chib som förstaspråk
 
