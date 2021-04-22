@@ -149,12 +149,12 @@ Språkets betydelse för att utöva inflytande.
 ### Kunskapskrav för betyget E i slutet av årskurs 6
 
 Eleven samtalarom bekanta ämnen på ett sätt som **till viss del** upprätthåller samtalent.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
 
 Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **begripligt** innehåll, **i huvudsak fungerande** struktur och **viss** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **viss** säkerhet.
 
-Eleven läser olika texter med **visst**  **flyt** och visar **grundläggande** läsförståelse.
+Eleven läser olika texter med **visst flyt** och visar **grundläggande** läsförståelse.
 Eleven för **enkla** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven beskriver på ett **enkelt** sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska.
@@ -173,7 +173,7 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **funger
 Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **relativt tydligt** innehåll, **fungerande** struktur och **relativt god** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **relativt god** säkerhet.
 
-Eleven läser olika texter med **relativt gott**  **flyt** och visar **god** läsförståelse.
+Eleven läser olika texter med **relativt gott flyt** och visar **god** läsförståelse.
 Eleven för **utvecklade** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven beskriver på ett **utvecklat** sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska.
@@ -187,12 +187,12 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 ### Kunskapskrav för betyget A i slutet av årskurs 6
 
 Eleven samtalarom bekanta ämnen på ett sätt somupprätthåller samtalent **väl**.
-Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
+Dessutom förbereder och genomför eleven muntliga framställningar med **väl fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
 
 Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **tydligt** innehåll, **väl fungerande** struktur och **god** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
 
-Eleven läser olika texter med **gott**  **flyt** och visar **mycket god** läsförståelse.
+Eleven läser olika texter med **gott flyt** och visar **mycket god** läsförståelse.
 Eleven för **välutvecklade** resonemang om tydligt framträdande budskap i olika texter.
 
 Eleven beskriver på ett **välutvecklat** sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska.
@@ -202,16 +202,16 @@ Eleven beskriver på ett **välutvecklat** sätt, även utifrån egna erfarenhet
 ### Kunskapskrav för betyget E i slutet av årskurs 9
 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt som **till viss del** utvecklar samtalent ocheller diskussionernan.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** struktur, innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** struktur, innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **viss** språklig variation, **i huvudsak**  **fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **viss** språklig variation, **i huvudsak fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **viss** säkerhet.
 
 Eleven läser olika texter med **flyt** och visar **grundläggande** läsförståelse.
 Dessutom tolkar och för eleven **enkla** resonemang om budskap i olika texter.
 
 Eleven för **enkla** resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska.
-Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett **i huvudsak**  **fungerande** sätt.
+Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett **i huvudsak fungerande** sätt.
 
 Eleven beskriver och resonerar på ett **enkelt** sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas.
 Eleven gör då **enkla** jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.
@@ -228,8 +228,8 @@ Dessutom förbereder och genomför eleven muntliga framställningar med **funger
 Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **relativt god** språklig variation, **fungerande** struktur och innehåll samt **relativt god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **relativt god** säkerhet.
 
-Eleven läser olika texter med **gott flyt **och visar** god **läsförståelse.
-Dessutom tolkar och för eleven** utvecklade** resonemang om budskap i olika texter.
+Eleven läser olika texter med **gott flyt** och visar **god** läsförståelse.
+Dessutom tolkar och för eleven **utvecklade** resonemang om budskap i olika texter.
 
 Eleven för **utvecklade** resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska.
 Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett **väl fungerande** sätt.
@@ -246,14 +246,14 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen t ocheller diskussionerna **väl**.
 Dessutom förbereder och genomför eleven muntliga framställningar med **väl fungerande** struktur, innehåll och **god** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **god** språklig variation, **väl**  **fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver, utifrån modersmålets särdrag, olika slags texter med **god** språklig variation, **väl fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
 
-Eleven läser olika texter med **mycket gott**  **flyt** och visar **mycket god** läsförståelse.
+Eleven läser olika texter med **mycket gott flyt** och visar **mycket god** läsförståelse.
 Dessutom tolkar och för eleven **välutvecklade** resonemang om budskap i olika texter.
 
 Eleven för **välutvecklade** resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska.
-Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett **väl**  **fungerande** sätt.
+Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett **väl fungerande** sätt.
 
 Eleven beskriver och resonerar på ett **välutvecklat** sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas.
 Eleven gör då **välutvecklade** jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.
