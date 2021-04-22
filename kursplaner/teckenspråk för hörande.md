@@ -124,7 +124,7 @@ I framställningar av olika slag formulerar sig eleven **mycket enkelt och i huv
 I interaktion uttrycker sig eleven **mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser**.
 Dessutom använder eleven strategier som **i någon mån** underlättar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 6
 
@@ -139,7 +139,7 @@ I framställningar av olika slag formulerar sig eleven **mycket enkelt och begri
 I interaktion uttrycker sig eleven **mycket enkelt och begripligt med vanliga tecken och fraser**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 6
 
@@ -154,7 +154,7 @@ I framställningar av olika slag formulerar sig eleven **enkelt och relativt tyd
 I interaktion uttrycker sig eleven **enkelt och relativt tydligt med vanliga tecken och fraser**.
 Dessutom använder eleven strategier som underlättar interaktionen.
 
-Eleven kommenterar **på**  **ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Inom ramen för elevens val
 
@@ -163,12 +163,12 @@ Eleven kommenterar **på**  **ett mycket enkelt sätt** , på teckenspråk, för
 Eleven förstår **enkel bokstavering, vanliga tecken och enkla fraser** i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade teckenspråkiga källor, samt använder **på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I framställningar av olika slag formulerar sig eleven **enkelt och**  **begripligt med bokstavering, enstaka tecken och fraser**.
+I framställningar av olika slag formulerar sig eleven **enkelt och begripligt med bokstavering, enstaka tecken och fraser**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt med bokstavering, enstaka tecken och fraser **.
+I interaktion uttrycker sig eleven **enkelt och begripligt med bokstavering, enstaka tecken och fraser**.
 Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -179,12 +179,12 @@ Betyget D innebär att kunskapskraven för betyget E och till övervägande del 
 Eleven förstår **huvudsakligt innehåll och tydliga detaljer** i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I framställningar av olika slag formulerar sig eleven **enkelt och**  **relativt tydligt med bokstavering, fraser och meningar**.
+I framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med bokstavering, fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och**  **begripligt med bokstavering, tecken, fraser och meningar**.
+I interaktion uttrycker sig eleven **enkelt och begripligt med bokstavering, tecken, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 9
 
@@ -195,12 +195,12 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 Eleven förstår **huvudsakligt innehåll och väsentliga detaljer** i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
-I framställningar av olika slag formulerar sig eleven **enkelt,**  **relativt tydligt och till viss del sammanhängande**.
+I framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och**  **relativt tydligt med tecken, fraser och meningar**.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med tecken, fraser och meningar**.
 Dessutom använder eleven strategier som underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **på ett enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Inom ramen för språkval
 
@@ -213,7 +213,7 @@ I framställningar av olika slag formulerar sig eleven **mycket enkelt och i huv
 I interaktion uttrycker sig eleven **mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser**.
 Dessutom använder eleven strategier som **i någon mån** underlättar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 6
 
@@ -228,7 +228,7 @@ I framställningar av olika slag formulerar sig eleven **mycket enkelt och begri
 I interaktion uttrycker sig eleven **mycket enkelt och begripligt med vanliga tecken och fraser**.
 Dessutom användereleven strategier som **i viss utsträckning** underlättar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 6
 
@@ -242,7 +242,7 @@ I framställningar av olika slag formulerar sig eleven **enkelt och relativt tyd
 
 I interaktion uttrycker sig eleven **enkelt och relativt tydligt med vanliga tecken och fraser**.Dessutom använder eleven strategier som underlättar interaktionen.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Inom ramen för språkval
 
@@ -253,10 +253,10 @@ Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga k
 
 I framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och**  **begripligt med tecken, fraser och meningar**.
+I interaktion uttrycker sig eleven **enkelt och begripligt med tecken, fraser och meningar**.
 Dessutom använder eleven strategier som **i någon mån** underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **på ett enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -269,10 +269,10 @@ Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga k
 
 I framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och relativt**  **tydligt med tecken, fraser och meningar**.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med tecken, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **på ett enkelt sätt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **på ett enkelt sätt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 9
 
@@ -281,11 +281,11 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 ### Kunskapskrav för betyget A i slutet av årskurs 9
 
 Eleven förstår och tolkar **helheten och väsentliga detaljer** i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen.
-Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder **på ett relevant och effektivt**  **sätt** det valda materialet i sin egen produktion och interaktion.
+Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
 I framställningar av olika slag formulerar sig eleven **i någon mån varierat, relativt tydligt och relativt sammanhängande**.
 
 I interaktion uttrycker sig eleven **relativt tydligt med tecken, fraser och meningar** samt **i någon mån anpassat** till syfte, mottagare och situation.
 Dessutom använder eleven strategier som underlättar och förbättrar interaktionen.
 
-Eleven kommenterar **översiktligt** , på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
+Eleven kommenterar **översiktligt**, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.
