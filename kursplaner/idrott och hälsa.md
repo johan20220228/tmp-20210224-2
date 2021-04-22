@@ -1,7 +1,3 @@
-![](RackMultipart20210422-4-1z0qqo1_html_f301d16ab7947906.gif)
-
-Bilaga
-
 ## Idrott och hälsa
 
 Rörelse och hälsofrämjande levnadsvanor är grundläggande för människors välbefinnande.
