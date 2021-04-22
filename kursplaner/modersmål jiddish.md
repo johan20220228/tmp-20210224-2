@@ -1,4 +1,4 @@
-## Modersmål - jiddisch som nationellt minoritetsspråk
+## Modersmål – jiddisch som nationellt minoritetsspråk
 
 Språk är människans främsta redskap för att tänka, kommunicera och lära.
 Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker.
@@ -13,7 +13,7 @@ Att ha kunskaper i språket och om minoritetens kultur kan ge nya perspektiv på
 
 ### Syfte
 
-Undervisningen i ämnet modersmål - jiddisch som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
+Undervisningen i ämnet modersmål – jiddisch som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
 Genom undervisningen ska eleverna ges möjlighet att utveckla sin flerspråkighet, sin förståelse av omvärlden och sin identitet.
 
 Undervisningen ska stimulera elevernas intresse för att samtala, läsa och skriva på det nationella minoritetsspråket.
@@ -25,7 +25,7 @@ Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den n
 Eleverna ska även ges förutsättningar att utveckla kunskaper om den nationella minoritetens musik, litteratur och andra estetiska uttrycksformer.
 Vidare ska eleverna ges förutsättningar att utveckla kunskaper om det nationella minoritetsspråkets ursprung, utveckling och nutida status.
 
-Undervisningen i ämnet modersmål - jiddisch som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
+Undervisningen i ämnet modersmål – jiddisch som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
 
 - förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,
 - förmåga att anpassa språket efter olika syften, mottagare och sammanhang,
@@ -71,7 +71,7 @@ Undervisningen i ämnet modersmål - jiddisch som nationellt minoritetsspråk sk
 
 - Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det direkt uttalade och sådant som är indirekt uttryckt.
 - Strategier för skrivande av berättande texter och faktatexter med anpassning till deras uppbyggnad och språkliga drag.
-- Jiddischens grundläggande struktur med böjningsmönster och meningsbyggnad.
+– jiddischens grundläggande struktur med böjningsmönster och meningsbyggnad.
 - Ordböcker och andra hjälpmedel för stavning och ordförståelse.
 - Alfabetet i skrivstil.
 
@@ -108,7 +108,7 @@ Idiomatiska uttryck och ordspråk.
 - Lässtrategier för att förstå och tolka texter från olika medier.
 - Strategier för skrivande av olika typer av texter med anpassning till deras uppbyggnad och språkliga drag.
 Skapande av texter där ord, bild och ljud samspelar.
-- Jiddischens struktur med ordbildning, böjningsmönster, ordklasser och satsdelar.
+– jiddischens struktur med ordbildning, böjningsmönster, ordklasser och satsdelar.
 - Hjälpmedel för informationssökning och ordförståelse.
 
 #### Tala, lyssna och samtala
@@ -136,7 +136,7 @@ Språkets betydelse för att utöva inflytande.
 
 #### Jiddischkultur
 
-- Jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
+– jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
 Organisationer som arbetar för att främja jiddisch och jiddischkulturen.
 - Några jiddischförfattare och deras verk.
 - Sociala, politiska och kulturella strömningar i jiddischvärlden från slutet av 1800-talet, till exempel _Bund_, sång och teater i jiddischvärlden och jiddischlitteraturens guldålder.
@@ -248,14 +248,14 @@ Idiomatiska uttryck och ordspråk.
 
 #### Jiddischkultur
 
-- Jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
+– jiddischens ursprung och utveckling genom kontakter med olika språk och majoritetssamhällen samt jiddischens framtid i Sverige och andra delar av världen.
 Organisationer som arbetar för att främja jiddisch och jiddischkulturen.
 - Några jiddischförfattare och vilka verk de är kända för.
 - Sociala, politiska och kulturella strömningar i jiddischvärlden från slutet av 1800-talet, till exempel _Bund,_ sång och teater i jiddischvärlden och jiddischlitteraturens guldålder.
 - Förintelsens konsekvenser för jiddisch och jiddischkulturen.
 - Några aktuella samhällsfrågor som berör judar, även i jämförelse med liknande frågor hos andra nationella minoriteter i Sverige.
 
-## KUNSKAPSKRAV I ÄMNET MODERSMÅL - JIDDISCH SOM NATIONELLT MINORITETSSPRÅK
+## KUNSKAPSKRAV I ÄMNET MODERSMÅL – jiddisch SOM NATIONELLT MINORITETSSPRÅK
 
 ### Inom ramen för jiddisch som förstaspråk
 
