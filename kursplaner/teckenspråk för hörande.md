@@ -248,8 +248,8 @@ Eleven kommenterar **på ett mycket enkelt sätt**, på teckenspråk, förhålla
 
 ### Kunskapskrav för betyget E i slutet av årskurs 9
 
-Eleven förstår och tolkar **det mest väsentliga **av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen.
-Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder** på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
+Eleven förstår och tolkar **det mest väsentliga** av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen.
+Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder **på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 I framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
