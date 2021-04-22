@@ -168,8 +168,8 @@ Med **viss** användningav begreppen och förklaringsmodellerna beskriver och f�
 I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argumentmed **viss** naturvetenskaplig underbyggnad.
 Eleven söker information som rör kemi och använder då olika källor och för **enkla** resonemang om informationens och källornas trovärdighet och relevans.
 
-Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och **i huvudsak**** fungerande **sätt.
-Eleven värderar undersökningarna genom att föra** enkla** resonemang utifrån frågeställningarna.
+Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och **i huvudsak fungerande** sätt.
+Eleven värderar undersökningarna genom att föra **enkla** resonemang utifrån frågeställningarna.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -198,5 +198,5 @@ Med **god** användningav begreppen och förklaringsmodellerna beskriver och fö
 I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argumentmed **god** naturvetenskaplig underbyggnad.
 Eleven söker information som rör kemi och använder då olika källor och för **välutvecklade** resonemang om informationens och källornas trovärdighet och relevans.
 
-Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och **väl**** fungerande **sätt.
-Eleven värderar undersökningarna genom att föra** välutvecklade** resonemang utifrån frågeställningarna.
+Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och **väl fungerande** sätt.
+Eleven värderar undersökningarna genom att föra **välutvecklade** resonemang utifrån frågeställningarna.
