@@ -260,7 +260,7 @@ Organisationer som arbetar för att främja romani chib och den romska kulturen.
 ### Kunskapskrav för betyget E i slutet av årskurs 6
 
 Eleven samtalar om bekanta ämnen på ett sätt som **till viss del** upprätthåller samtalent.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
 
 Eleven skriver olika slags texter med **begripligt** innehåll, **i huvudsak fungerande **struktur och** viss **språklig variation.
 Eleven följer grundläggande regler för stavning, meningsbyggnad och ordböjning med** viss** säkerhet.
@@ -293,7 +293,7 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 ### Kunskapskrav för betyget A i slutet av årskurs 6
 
-Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalent **vä l **.
+Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalent **vä l**.
 Dessutom förbereder och genomför eleven muntliga framställningar med** väl fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
 
 Eleven skriver olika slags texter med **tydligt** innehåll, **väl fungerande **struktur och** god **språklig variation.
@@ -309,9 +309,9 @@ Eleven ger **välutvecklade** exempel på sociala, historiska och kulturella fö
 ### Kunskapskrav för betyget E i slutet av årskurs 9
 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt som **till viss del** utvecklar samtalent ocheller diskussionerna.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** struktur, innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** struktur, innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver olika slags texter med **viss** språklig variation, **i huvudsak**  **fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver olika slags texter med **viss** språklig variation, **i huvudsak fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **viss** säkerhet.
 
 Eleven läser olika texter med **flyt** och visar **grundläggande** läsförståelse.
@@ -347,12 +347,12 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 ### Kunskapskrav för betyget A i slutet av årskurs 9
 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalent ocheller diskussionerna **väl**.
-Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** struktur, innehåll och **god** anpassning till syfte, mottagare och sammanhang.
+Dessutom förbereder och genomför eleven muntliga framställningar med **väl fungerande** struktur, innehåll och **god** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver olika slags texter med **god** språklig variation, **väl**  **fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver olika slags texter med **god** språklig variation, **väl fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
 
-Eleven läser olika texter med **mycket**  **gott flyt **och visar** mycket god** läsförståelse.
+Eleven läser olika texter med **mycket gott flyt **och visar** mycket god** läsförståelse.
 Dessutom tolkar och för eleven **välutvecklade** resonemang om budskap i olika texter.
 
 Eleven för **välutvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör romer.
@@ -370,7 +370,7 @@ Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt med enstaka  ord och fraser **.
+I interaktion uttrycker sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrarinteraktionen.
 
 Eleven ger **enkla** exempel på sociala, historiska och kulturella företeelser som berör romer.
@@ -385,10 +385,10 @@ Eleven lyssnar, och förstår **huvudsakligt innehåll och tydliga detaljer** i 
 Eleven läser, och förstår **huvudsakligt innehåll och tydliga detaljer** i korta, enkla texter om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar **.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
 I skriftliga framställningar av olika slag formulerar sig eleven** enkelt och relativt tydligt med fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och**  **meningar**.
+I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
 
 Eleven ger **utvecklade** exempel på sociala, historiska och kulturella företeelser som berör romer.
@@ -406,7 +406,7 @@ Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och relativt tydligt  med ord, fraser och  meningar**.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som underlättar och förbättrarinteraktionen.
 
 Eleven ger **välutvecklade** exempel på sociala, historiska och kulturella företeelser som berör romer.
@@ -420,7 +420,7 @@ Eleven väljer enkel information från ett avgränsat urval av muntliga och skri
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
-I interaktion uttrycker sig eleven **enkelt och begripligt  med ord, fraser och meningar **.
+I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven för **enkla** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör romer.
@@ -437,10 +437,10 @@ Eleven lyssnar samt förstår och tolkar **huvudsakligt innehåll och tydliga de
 Eleven läser samt förstår och tolkar **huvudsakligt innehåll och tydliga detaljer** i enkla texter om vardagliga och välbekanta ämnen.
 Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande **.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 I skriftliga framställningar av olika slag formulerar sig eleven** enkelt, relativt tydligt och till viss del sammanhängande**.
 
-I interaktion uttrycker sig eleven **enkelt och relativt tydligt  med ord, fraser och meningar **.
+I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som** i viss utsträckning** underlättar och förbättrar interaktionen.
 
 Eleven för **utvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör romer.
@@ -457,10 +457,10 @@ Eleven lyssnar samt förstår och tolkar **helheten och väsentliga detaljer** i
 Eleven läser samt förstår och tolkar **helheten och väsentliga detaljer** i enkla texter om vardagliga och välbekanta ämnen.
 Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **i någon mån varierat,**  **relativt tydligt och relativt sammanhängande**.
-I skriftliga framställningar av olika slag formulerar sig eleven **i någon mån varierat,**  **relativt tydligt och relativt sammanhängande**.
+I muntliga framställningar av olika slag formulerar sig eleven **i någon mån varierat, relativt tydligt och relativt sammanhängande**.
+I skriftliga framställningar av olika slag formulerar sig eleven **i någon mån varierat, relativt tydligt och relativt sammanhängande**.
 
-I interaktion uttrycker sig eleven **relativt**  **tydligt**  **med ord, fraser och meningar** samt **i någon mån anpassat till syfte, mottagare och situation**.
+I interaktion uttrycker sig eleven **relativt tydligt med ord, fraser och meningar** samt **i någon mån anpassat till syfte, mottagare och situation**.
 Dessutom använder eleven strategier som underlättar och förbättrarinteraktionen.
 
 Eleven för **välutvecklade** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör romer.
