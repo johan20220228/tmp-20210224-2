@@ -457,7 +457,7 @@ Eleven läser, och förstår **mycket vanliga ord** i korta, enkla texter som ha
 
 Eleven **skriver några vanligt förekommande tecken** för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 6
 
@@ -467,14 +467,15 @@ Betyget D innebär att kunskapskraven för betyget E och till övervägande del 
 
 Eleven lyssnar, och förstår **vanliga, enkla ord och fraser** i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen.
 
-I muntliga framställningar formulerar sig eleven **mycket enkelt och begripligt med enstaka vanliga ord och fraser**.I muntlig interaktion uttrycker sig eleven **mycket enkelt och begripligt  med enstaka vanliga ord och fraser **.
+I muntliga framställningar formulerar sig eleven **mycket enkelt och begripligt med enstaka vanliga ord och fraser**.
+I muntlig interaktion uttrycker sig eleven **mycket enkelt och begripligt  med enstaka vanliga ord och fraser**.
 Dessutom använder eleven strategier som** i viss utsträckning** underlättar interaktionen.
 
 Eleven läser, och förstår **mycket vanliga ord** i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken.
 
 Eleven **skriver några vanligt förekommande tecken** för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 6
 
@@ -484,14 +485,15 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 Eleven lyssnar, och förstår **enkla ord och fraser** i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen.
 
-I muntliga framställningar formulerar sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser.** I muntlig interaktion uttrycker sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
+I muntliga framställningar formulerar sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
+I muntlig interaktion uttrycker sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
 Dessutom använder eleven strategier som underlättar interaktionen.
 
 Eleven läser, och förstår **vanliga ord** i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken.
 
 Eleven **använder några vanligt förekommande tecken** för att **skriva mycket korta, enkla texter** för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Inom ramen för elevens val, kinesiska
 
@@ -507,7 +509,7 @@ Eleven läser, och förstår **vanliga ord** i korta, enkla texter som handlar o
 
 Eleven använder **några vanligt förekommande tecken** för att **med viss säkerhet** skrivakorta, enkla texter för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -525,7 +527,7 @@ Eleven läser, och förstår **vanliga ord och enkla fraser** i korta, enkla tex
 
 Eleven använder **några vanligt förekommande tecken** för att **med säkerhet** skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** ,på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 9
 
@@ -543,7 +545,7 @@ Eleven läser, och förstår **huvudsakligt innehåll** i korta, enkla texter so
 
 Eleven använder **flera vanligt förekommande tecken** för att **med säkerhet** skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Inom ramen för språkval, kinesiska
 
@@ -569,14 +571,15 @@ Betyget D innebär att kunskapskraven för betyget E och till övervägande del 
 
 Eleven lyssnar, och förstår **vanliga, enkla ord och fraser** i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen.
 
-I muntliga framställningar formulerar sig eleven **mycket enkelt och begripligt med enstaka vanliga ord och fraser**.I muntlig interaktion uttrycker sig eleven **mycket enkelt och begripligt  med enstaka vanliga ord och fraser **.
-Dessutom använder eleven strategier som** i viss utsträckning** underlättar interaktionen.
+I muntliga framställningar formulerar sig eleven **mycket enkelt och begripligt med enstaka vanliga ord och fraser**.
+I muntlig interaktion uttrycker sig eleven **mycket enkelt och begripligt  med enstaka vanliga ord och fraser**.
+Dessutom använder eleven strategier som **i viss utsträckning** underlättar interaktionen.
 
 Eleven läser, och förstår **mycket vanliga ord** i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken.
 
 Eleven **skriver några vanligt förekommande tecken** för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 6
 
@@ -586,14 +589,15 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 Eleven lyssnar, och förstår **enkla ord och fraser** i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen.
 
-I muntliga framställningar formulerar sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.I muntlig interaktion uttrycker sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
+I muntliga framställningar formulerar sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
+I muntlig interaktion uttrycker sig eleven **enkelt och relativt tydligt med enstaka vanliga ord och fraser**.
 Dessutom använder eleven strategier som underlättar interaktionen.
 
 Eleven läser, och förstår **vanliga ord** i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken.
 
 Eleven **använder några vanligt förekommande tecken** för att **skriva mycket korta, enkla texter** för hand och med hjälp av digitala hjälpmedel.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Inom ramen för språkval, kinesiska
 
@@ -602,18 +606,18 @@ Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhålland
 Eleven lyssnar, och förstår **vanliga ord och enkla fraser** i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga källor och använder **på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt och**  **begripligt med enstaka ord och fraser**.
-I muntlig interaktion uttrycker sig eleven **enkelt och**  **begripligt med enstaka ord och fraser**.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser**.
+I muntlig interaktion uttrycker sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 Dessutom använder elevenstrategier som **i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven läser, och förstår **vanliga ord och enkla fraser** i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken.
 Eleven hittar mycket enkel information i anvisade skriftliga källor och använder **på ett delvis relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand.
-I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt och**  **begripligt med enstaka ord och fraser**.
-I skriftlig interaktion med förenklade tecken uttrycker sig eleven **enkelt och**  **begripligt med enstaka ord och fraser**.
+I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt och begripligt med enstaka ord och fraser**.
+I skriftlig interaktion med förenklade tecken uttrycker sig eleven **enkelt och begripligt med enstaka ord och fraser**.
 
-Eleven kommenterar **på ett mycket enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget D i slutet av årskurs 9
 
@@ -624,18 +628,18 @@ Betyget D innebär att kunskapskraven för betyget E och till övervägande del 
 Eleven lyssnar, och förstår **huvudsakligt innehåll och tydliga detaljer** i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga källor och använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt och**  **relativt tydligt med fraser och meningar**.
-I muntlig interaktion uttrycker sig eleven **enkelt och**  **begripligt med ord, fraser och meningar**.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
+I muntlig interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
 
 Eleven läser, och förstår **vanliga ord och enkla fraser** i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken.
 Eleven hittar mycket enkel information i anvisade skriftliga källor och använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand.
-I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt och**  **relativt tydligt med fraser och meningar**.
+I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
 I skriftlig interaktion med förenklade tecken uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 
-Eleven kommenterar **på ett mycket enkelt sätt** ,på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett mycket enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
 
 ### Kunskapskrav för betyget B i slutet av årskurs 9
 
@@ -646,14 +650,15 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 Eleven lyssnar, och förstår **huvudsakligt innehåll och väsentliga detaljer** i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen.
 Eleven hittar enkel information i anvisade muntliga källor och använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
-I muntliga framställningar av olika slag formulerar sig eleven **enkelt,**  **relativt tydligt och till viss del sammanhängande**.
-I muntlig interaktion uttrycker sig eleven **enkelt och**  **relativt tydligt med ord, fraser och meningar**.Dessutom använder eleven strategier som underlättar och förbättrar interaktionen.
+I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
+I muntlig interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
+Dessutom använder eleven strategier som underlättar och förbättrar interaktionen.
 
 Eleven läser, och förstår **huvudsakligt innehåll och tydliga detaljer** i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken.
 Eleven hittar mycket enkel information i anvisade skriftliga källor och använder **på ett relevant och effektivt sätt** det valda materialet i sin egen produktion och interaktion.
 
 Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand.
-I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt,**  **relativt tydligt och till viss del sammanhängande**.
-I skriftlig interaktion med förenklade tecken uttrycker sig eleven **enkelt och**  **relativt tydligt med ord, fraser och meningar**.
+I skriftliga framställningar med förenklade tecken formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
+I skriftlig interaktion med förenklade tecken uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 
-Eleven kommenterar **på ett enkelt sätt** , på kinesiska, förhållanden i olika sammanhang och områden där språket används.
+Eleven kommenterar **på ett enkelt sätt**, på kinesiska, förhållanden i olika sammanhang och områden där språket används.
