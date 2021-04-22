@@ -25,7 +25,7 @@ Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om den n
 Eleverna ska även ges förutsättningar att utveckla kunskaper om den nationella minoritetens musik, litteratur och andra estetiska uttrycksformer.
 Vidare ska eleverna ges förutsättningar att utveckla kunskaper om det nationella minoritetsspråkets ursprung, utveckling och nutida status.
 
-Undervisningen i ämnet modersmål - meänkieli som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
+Undervisningen i ämnet modersmål – meänkieli som nationellt minoritetsspråk ska ge eleverna förutsättningar att utveckla
 
 - förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,
 - förmåga att anpassa språket efter olika syften, mottagare och sammanhang,
@@ -389,7 +389,7 @@ Eleven läser, och förstår **huvudsakligt innehåll och tydliga detaljer** i k
 Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
-I skriftliga framställningar av olika slag formulerar sig eleven** enkelt och relativt tydligt med fraser och meningar**.
+I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och relativt tydligt med fraser och meningar**.
 
 I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som **i viss utsträckning** underlättar och förbättrar interaktionen.
@@ -426,7 +426,7 @@ I muntliga framställningar av olika slag formulerar sig eleven **enkelt och beg
 I skriftliga framställningar av olika slag formulerar sig eleven **enkelt och begripligt med fraser och meningar**.
 
 I interaktion uttrycker sig eleven **enkelt och begripligt med ord, fraser och meningar**.
-Dessutom använder eleven strategier som** i någon mån** underlättar och förbättrar interaktionen.
+Dessutom använder eleven strategier som **i någon mån** underlättar och förbättrar interaktionen.
 
 Eleven för **enkla** resonemang om företeelser, levnadsvillkor och samhällsfrågor som berör tornedalingar och andra meänkielitalande.
 
@@ -443,7 +443,7 @@ Eleven läser, samt förstår och tolkar **huvudsakligt innehåll och tydliga de
 Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder **på ett relevant sätt** det valda materialet i sin egen produktion och interaktion.
 
 I muntliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
-I skriftliga framställningar av olika slag formulerar sig eleven** enkelt, relativt tydligt och till viss del sammanhängande**.
+I skriftliga framställningar av olika slag formulerar sig eleven **enkelt, relativt tydligt och till viss del sammanhängande**.
 
 I interaktion uttrycker sig eleven **enkelt och relativt tydligt med ord, fraser och meningar**.
 Dessutom använder eleven strategier som** i viss utsträckning** underlättar och förbättrar interaktionen.
