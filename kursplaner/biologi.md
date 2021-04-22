@@ -1,7 +1,3 @@
-![](RackMultipart20210422-4-q5ukz9_html_72e012147219cf3.gif)
-
-Bilaga
-
 ## Biologi
 
 Naturvetenskapen har sitt ursprung i människans nyfikenhet och behov av att veta mer om sig själv och sin omvärld.
