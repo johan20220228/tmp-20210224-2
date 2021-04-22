@@ -1,4 +1,4 @@
-## Modersmål - meänkieli som nationellt minoritetsspråk
+## Modersmål – meänkieli som nationellt minoritetsspråk
 
 Språk är människans främsta redskap för att tänka, kommunicera och lära.
 Genom språket utvecklar människor sin identitet, uttrycker känslor och tankar och förstår hur andra känner och tänker.
@@ -13,7 +13,7 @@ Att ha kunskaper i språket och om minoritetens kultur kan ge nya perspektiv på
 
 ### Syfte
 
-Undervisningen i ämnet modersmål - meänkieli som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
+Undervisningen i ämnet modersmål – meänkieli som nationellt minoritetsspråk ska syfta till att eleverna utvecklar kunskaper i och om språket samt kunskaper om minoritetens kultur.
 Genom undervisningen ska eleverna ges möjlighet att utveckla sin flerspråkighet, sin förståelse av omvärlden och sin identitet.
 
 Undervisningen ska stimulera elevernas intresse for att samtala, läsa och skriva på det nationella minoritetsspråket.
@@ -256,7 +256,7 @@ Den tornedalska kulturens och andra meänkielitalandes kulturs villkor i relatio
 - Några tornedalska och andra meänkielitalande författare och vilka verk de är kända för.
 - Några aktuella samhällsfrågor som berör tornedalingar och andra meänkielitalande, även i jämförelse med liknande frågor hos andra nationella minoriteter i Sverige.
 
-## KUNSKAPSKRAV I ÄMNET MODERSMÅL - MEÄNKIELI SOM NATIONELLT MINORITETSSPRÅK
+## KUNSKAPSKRAV I ÄMNET MODERSMÅL – MEÄNKIELI SOM NATIONELLT MINORITETSSPRÅK
 
 ### Inom ramen för meänkieli som förstaspråk
 
