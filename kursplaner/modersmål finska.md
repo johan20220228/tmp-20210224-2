@@ -116,7 +116,7 @@ Skapande av texter där ord, bild och ljud samspelar.
 - Muntliga presentationer och muntligt berättande med anpassning av språk, innehåll och disposition efter syfte och mottagare.
 - Olika varieteter av talad finska.
 
-_Texter_
+#### Texter
 
 - Skönlitteratur för ungdomar.
 Texter som belyser människors villkor och identitets- och livsfrågor.
