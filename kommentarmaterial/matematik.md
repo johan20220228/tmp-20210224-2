@@ -656,8 +656,7 @@ Att använda matematiska modeller innebär också att reflektera över modellens
 Redan i de yngre åldrarna finns matematiska modeller närvarande exempelvis i räknehändelser eller när elever översätter en verklig eller påhittad situation till en enkel modell.
 I de högre årskurserna ska eleverna i allt högre grad få övning i att översätta situationer till modeller och värdera dessa modeller, för att formulera allt mer generella modeller med hjälp av algebraiska uttryck.
 
-### Kommentarer till
- kursplanens kunskapskrav
+### Kommentarer till kursplanens kunskapskrav
 
 Kunskapskravens uppgift är att fungera som måttstock för bedömning av elevens samlade kunskaper.
 Kunskapskraven behöver läsas och tolkas i relation till syftet, det centrala innehållet och den undervisning som har bedrivits.
@@ -726,7 +725,7 @@ Eleven använder och beskriver geometriska mönster och mönster i talföljder.
 Dessutom använder eleven grundläggande geometriska begrepp och vanliga lägesord för att beskriva geometriska objekts egenskaper, läge och inbördes relationer.
 Eleven använder och ger exempel på enkla proportionella samband_.
 
-**Årskurs 6 och 9:** _Eleven visar_ _ **grundläggande/goda/mycket goda** _ _kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med_ _ **tillfredsställande/god/mycket god** _ _säkerhet_.
+**Årskurs 6 och 9:** _Eleven visar **grundläggande/goda/mycket goda** kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med **tillfredsställande/god/mycket god** säkerhet_.
 
 Det här stycket innehåller krav på att eleven visar kunskaper inom vart och ett av en rad områden.
 Formuleringarna avser att omfatta bedömning av olika aspekter av elevens kunskaper om matematiska begrepp.
@@ -757,7 +756,7 @@ Eleven avbildar och, utifrån instruktioner, konstruerar enkla geometriska objek
 Eleven gör enkla mätningar, jämförelser och uppskattningar av längder, massor, volymer och tider och använder vanliga måttenheter.
 Vid olika undersökningar avläser och skapar eleven enkla tabeller och diagram för att sortera och redovisa resultat_.
 
-**Årskurs 6 och 9:** _Eleven väljer och använder_ _ **i huvudsak fungerande/ändamålsenliga/ändamålsenliga**   **och effektiva** _ _matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med_ _ **tillfredsställande/god/mycket god** _ _säkerhet_.
+**Årskurs 6 och 9:** _Eleven väljer och använder **i huvudsak fungerande/ändamålsenliga/ändamålsenliga och effektiva** matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med **tillfredsställande/god/mycket god** säkerhet_.
 
 Stycket innehåller krav på att eleven visar kunskaper inom vart och ett av en rad områden.
 Formuleringarna avser att omfatta bedömning av olika aspekter av elevens kunskaper om matematiska metoder.
@@ -788,14 +787,13 @@ Det kan till exempel avspeglas i problemens abstraktionsnivå, hur bekanta samma
 Vidare tar avsnittet upp att eleven beskriver tillvägagångssätt.
 Detta avser att rikta bedömningens fokus mot att eleven kan förmedla hur det gått till att lösa problemet.
 
-**Årskurs 6:** _Eleven löser_ _ **enkla/relativt komplexa/komplexa** _ _problem.
-Eleven_ _ **bidrar till något/ger något/ger** _ _förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet_.
+**Årskurs 6:** _Eleven löser **enkla/relativt komplexa/komplexa** problem.
+Eleven **bidrar till något/ger något/ger** förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet_.
 
-**Årskurs 9:** _Eleven löser_ _ **enkla/relativt komplexa/komplexa** _ _problem.
-Eleven_ _ **bidrar till något/ger något/ger** _ _förslag på alternativt tillvägagångssätt.
-I samband med problemlösning_ _ **bidrar eleven till att formulera/formulerar eleven/formulerar eleven** _
-_ **# 1**  enkla matematiska modeller som_ _**efter någon bearbetning (C)**_ _kan tillämpas i sammanhanget.
-Eleven värderar strategier och resultatens rimlighet på ett_ _ **enkelt/utvecklat/välutvecklat** _ _sätt_.
+**Årskurs 9:** _Eleven löser **enkla/relativt komplexa/komplexa** problem.
+Eleven **bidrar till något/ger något/ger** förslag på alternativt tillvägagångssätt.
+I samband med problemlösning **bidrar eleven till att formulera/formulerar eleven/formulerar eleven** enkla matematiska modeller som **efter någon bearbetning (C)** kan tillämpas i sammanhanget.
+Eleven värderar strategier och resultatens rimlighet på ett **enkelt/utvecklat/välutvecklat** sätt_.
 
 Den första meningen i avsnitten för årskurs 6 och 9 nämner enkla/relativt komplexa/komplexaproblem.
 Vad som avses med enkla problem i de olika årskurserna är bland annat beroende av det centrala innehållet i respektive årskurs.
@@ -831,7 +829,7 @@ Vilka resonemang som bedömningen omfattar är beroende av det centrala innehål
 Formuleringarna för årskurs 3 har nedtonade krav på matematisk argumentation jämfört med senare årskurser, men liksom för senare år riktas fokus mot att eleven uppfattar och använder matematiska resonemang.
 Genom att exempelvis ställa och besvara frågor, eller komma med egna påståenden, kan eleven visa egna och ta del av andras matematiska resonemang.
 
-**Årskurs 6 och 9:** _Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med_ _ **enkla/relativt väl**   **underbyggda/väl underbyggda** _ _matematiska argument_.
+**Årskurs 6 och 9:** _Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med **enkla/relativt väl underbyggda/väl underbyggda** matematiska argument_.
 
 Formuleringen för årskurs 6 och 9 handlar om i vilken grad eleven för fram argument och resonerar kring ställningstaganden, lösningar, resultats rimlighet eller mer allmänt utforskar frågeställningar där matematik ingår.
 Bedömningen riktas även mot i vilken grad eleven använder underbyggda matematiska argument.
@@ -856,7 +854,7 @@ Formuleringarna för årskurs 3 betonar att matematik kan uttryckas genom många
 Detta gäller också för senare årskurser, men är inte utskrivet på samma sätt i kunskapskraven.
 I de högre årskurserna finns ökade förväntningar på att eleven hanterar uttrycksformer som är specifika för matematiken och använder dessa när det är påkallat.
 
-**Årskurs 6 och 9:** _Eleven redogör för och samtalar om tillvägagångssätt på ett_ _ **i huvudsak fungerande/ändamålsenligt/ändamålsenligt och effektivt** _ _sätt och använder då symboler och andra matematiska uttrycksformer_.
+**Årskurs 6 och 9:** _Eleven redogör för och samtalar om tillvägagångssätt på ett **i huvudsak fungerande/ändamålsenligt/ändamålsenligt och effektivt** sätt och använder då symboler och andra matematiska uttrycksformer_.
 
 Vilka uttrycksformer eleven använder är beroende av det centrala innehållet.
 Det innebär också att det finns en progression i kunskapskraven mellan årskurs 6 och 9, även om formuleringarna är identiska.
