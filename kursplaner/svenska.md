@@ -246,10 +246,10 @@ Texterna innehåller egna formuleringar och grundläggande ämnesspecifika ord o
 
 ### Kunskapskrav för betyget E i slutet av årskurs 6
 
-Eleven samtalar om bekanta ämnen på ett sätt som **till**  **viss**  **del** upprätthåller samtalent.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
+Eleven samtalar om bekanta ämnen på ett sätt som **till viss del** upprätthåller samtalent.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** inledning, innehåll och avslutning och **viss** anpassning till syfte och mottagare.
 
-Eleven skriver olika slags texter med **begripligt** innehåll, **i huvudsak**  **fungerande** struktur och **viss** språklig variation.
+Eleven skriver olika slags texter med **begripligt** innehåll, **i huvudsak fungerande** struktur och **viss** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **viss** säkerhet.
 
 Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med **flyt** och visar **grundläggande** läsförståelse.
@@ -270,7 +270,7 @@ Betyget D innebär att kunskapskraven för betyget E och till övervägande del 
 Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalent **relativt väl**.
 Dessutom förbereder och genomför eleven muntliga framställningar med **fungerande** inledning, innehåll och avslutning och **relativt god** anpassning till syfte och mottagare.
 
-Eleven skriver olika slags texter med **relativt tydligt** innehåll, **fungerande** struktur och **relativt**  **god** språklig variation.
+Eleven skriver olika slags texter med **relativt tydligt** innehåll, **fungerande** struktur och **relativt god** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **relativt god** säkerhet.
 
 Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med **gott flyt** och visar **god** läsförståelse.
@@ -289,7 +289,7 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 ### Kunskapskrav för betyget A i slutet av årskurs 6
 
 Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalent **väl**.
-Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
+Dessutom förbereder och genomför eleven muntliga framställningar med **väl fungerande** inledning, innehåll och avslutning och **god** anpassning till syfte och mottagare.
 
 Eleven skriver olika slags texter med **tydligt** innehåll, **väl fungerande** struktur och **god** språklig variation.
 Eleven följer grundläggande regler för språkriktighet med **god** säkerhet.
@@ -306,9 +306,9 @@ Eleven för utifrån givna exempel enkla resonemang om några aspekter av språk
 ### Kunskapskrav för betyget E i slutet av årskurs 9
 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt som **till viss del** utvecklar samtalen och diskussionerna.Eleven framför åsikter med **till viss del** underbyggda argument.
-Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak**  **fungerande** struktur och innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
+Dessutom förbereder och genomför eleven muntliga framställningar med **i huvudsak fungerande** struktur och innehåll och **viss** anpassning till syfte, mottagare och sammanhang.
 
-Eleven skriver olika slags texter med **viss** språklig variation, **i huvudsak**  **fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
+Eleven skriver olika slags texter med **viss** språklig variation, **i huvudsak fungerande** struktur och innehåll samt **viss** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer språkliga normer på ett **i huvudsak fungerande** sätt.
 
 Eleven läser skönlitteratur och sakprosatexter med **flyt** och visar **grundläggande** läsförståelse.
@@ -352,7 +352,7 @@ Betyget B innebär att kunskapskraven för betyget C och till övervägande del 
 
 Eleven samtalar om och diskuterar varierande ämnen på ett sätt somutvecklar samtalen och diskussionerna **väl**.
 Eleven framför åsikter med **väl** underbyggda argument.
-Dessutom förbereder och genomför eleven muntliga framställningar med **väl**  **fungerande** struktur och innehåll och **god** anpassning till syfte, mottagare och sammanhang.
+Dessutom förbereder och genomför eleven muntliga framställningar med **väl fungerande** struktur och innehåll och **god** anpassning till syfte, mottagare och sammanhang.
 
 Eleven skriver olika slags texter med **god** språklig variation, **väl fungerande** struktur och innehåll samt **god** anpassning till texttyp, syfte, mottagare och sammanhang.
 Eleven följer språkliga normer på ett **väl fungerande** sätt.
