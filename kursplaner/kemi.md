@@ -71,7 +71,7 @@ Utförande och dokumentation av undersökningarna med ord, bilder och digitala v
 
 #### Kemin i naturen, i samhället och i människokroppen
 
-- Materiens uppbyggnad visualiserad med hjälp av enkla partikelmodeller.
+- Materiens uppbyggnad visualiserad med hjälp av enkla partikelmodeller. En ändring är här.
 - Indelning av ämnen och material utifrån egenskaperna löslighet, ledningsförmåga, surt eller basiskt.
 - Vattnets egenskaper och kretslopp.
 - Luftens egenskaper och sammansättning.
