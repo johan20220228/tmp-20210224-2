@@ -4,6 +4,7 @@ Människans förståelse av det förflutna är inflätad i hennes föreställnin
 På så sätt påverkar det förflutna både våra liv i dag och våra val inför framtiden.
 Kvinnor och män har i alla tider skapat historiska berättelser för att tolka verkligheten och påverka sin omgivning.
 Ett historiskt perspektiv ger oss redskap att förstå och förändra vår egen tid.
+Här är en ny mening.
 
 ### Syfte
 
