@@ -6,6 +6,8 @@ Kvinnor och män har i alla tider skapat historiska berättelser för att tolka 
 Ett historiskt perspektiv ger oss redskap att förstå och förändra vår egen tid.
 Här är en ny mening.
 
+Här är ett nytt stycke.
+
 ### Syfte
 
 Undervisningen i ämnet historia ska syfta till att eleverna utvecklar sitt historiemedvetande och sin historiska bildning.
