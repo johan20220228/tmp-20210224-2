@@ -5,6 +5,9 @@ Den utvecklas såväl ur praktiska behov som ur människans nyfikenhet och lust 
 Matematisk verksamhet är till sin art en kreativ, reflekterande och problemlösande aktivitet som är nära kopplad till den samhälleliga, sociala, naturvetenskapliga, tekniska och digitala utvecklingen.
 Kunskaper i matematik ger människor förutsättningar att fatta välgrundade beslut i vardagslivets många valsituationer och ökar möjligheterna att delta i samhällets beslutsprocesser.
 
+Här är ett nytt stycke!
+Och här är en mening till i samma stycke.
+
 ### Syfte och mål
 
 Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen och inom olika ämnesområden.
