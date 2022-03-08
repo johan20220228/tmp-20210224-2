@@ -7,6 +7,7 @@ Kunskaper i matematik ger människor förutsättningar att fatta välgrundade be
 
 Här är ett nytt stycke!
 Och här är en mening till i samma stycke.
+Här kommer mitt superbra tillägg.
 
 ### Syfte och mål
 
