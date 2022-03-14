@@ -52,7 +52,7 @@ Hur enkla bråk förhåller sig till naturliga tal.
 Användning av digitala verktyg vid beräkningar.
 - Rimlighetsbedömning vid uppskattningar och beräkningar.
 
-#### Algebra
+### Algebra
 
 - Matematiska likheter och likhetstecknets betydelse.
 - Obekanta tal och hur de kan betecknas med en symbol.
